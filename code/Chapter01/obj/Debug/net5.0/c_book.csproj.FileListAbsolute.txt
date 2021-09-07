@@ -1,0 +1,16 @@
+C:\Users\annab\Dev\c_book\bin\Debug\net5.0\c_book.exe
+C:\Users\annab\Dev\c_book\bin\Debug\net5.0\c_book.deps.json
+C:\Users\annab\Dev\c_book\bin\Debug\net5.0\c_book.runtimeconfig.json
+C:\Users\annab\Dev\c_book\bin\Debug\net5.0\c_book.runtimeconfig.dev.json
+C:\Users\annab\Dev\c_book\bin\Debug\net5.0\c_book.dll
+C:\Users\annab\Dev\c_book\bin\Debug\net5.0\ref\c_book.dll
+C:\Users\annab\Dev\c_book\bin\Debug\net5.0\c_book.pdb
+C:\Users\annab\Dev\c_book\obj\Debug\net5.0\c_book.csproj.AssemblyReference.cache
+C:\Users\annab\Dev\c_book\obj\Debug\net5.0\c_book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annab\Dev\c_book\obj\Debug\net5.0\c_book.AssemblyInfoInputs.cache
+C:\Users\annab\Dev\c_book\obj\Debug\net5.0\c_book.AssemblyInfo.cs
+C:\Users\annab\Dev\c_book\obj\Debug\net5.0\c_book.csproj.CoreCompileInputs.cache
+C:\Users\annab\Dev\c_book\obj\Debug\net5.0\c_book.dll
+C:\Users\annab\Dev\c_book\obj\Debug\net5.0\ref\c_book.dll
+C:\Users\annab\Dev\c_book\obj\Debug\net5.0\c_book.pdb
+C:\Users\annab\Dev\c_book\obj\Debug\net5.0\c_book.genruntimeconfig.cache
